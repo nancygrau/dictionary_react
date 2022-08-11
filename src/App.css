@@ -1,6 +1,15 @@
+body{
+  background: #f0f9ea;}
+
+a{
+  color: #F56131;}
 .App-header{
   text-align: center;
   font-size: 64px;}
 .App-footer{
   text-align: center;
   margin: 30px 0;}
+.App-logo{
+  max-width: 200px;
+  display: block;
+  margin:0 auto;}
